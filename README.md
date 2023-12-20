@@ -1,6 +1,3 @@
-Certainly! Here's a revised version of the provided instructions in a more standard README format:
-
----
 
 # Laravel Docker Setup
 
@@ -78,6 +75,3 @@ docker-compose ps
 
 Visit [http://localhost:8080](http://localhost:8080) in your browser to access your Laravel application.
 
----
-
-Feel free to customize the instructions based on your specific requirements or add any additional information that might be relevant for your project.# lara-doc
